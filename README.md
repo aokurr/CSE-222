@@ -1,4 +1,4 @@
-# CSE-222-Data Structures And Algorithms
+# (FAAL)CSE-222-Data Structures And Algorithms
 
 Dersin amacı:	Bu ders, öğrencilere temel veri yapıları ve algoritmalar konularında bilgi vermeyi amaçlar; algoritma analizine giriş, ardışık yapılar, özyineleme, sıralama, Map ve Set Sınıfları: Hash kodlama, Açık adresleme, Zincirleme, Gerçeklemeler, Çizgeler: Tanımlar, Graph Sınıfı ve gerçeklemeleri, Çizge dolaşma, Topolojik sıralama, Çizge kullanan problemler: Kısa Yol Problemleri, Minimum örten ağaç problemi.
 
